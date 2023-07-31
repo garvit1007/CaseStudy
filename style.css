@@ -1,0 +1,58 @@
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_1{
+    font-size: 25px;
+  }
+  .copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+  }
+  canvas {
+    border: 5px solid grey;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 160px;
+  }
+  #test_image_1 {
+    width: 250px;
+    height: 450px;
+  }
+  #test_image_2 {
+    width: 375px;
+    height: 400px;
+  }
+  #test_image_3 {
+    width: 250px;
+    height: 400px;
+  }
+  #test_image_4 {
+    width: 300px;
+    height: 300px;
+  }
+  #test_image_5 {
+    width: 400px;
+    height: 500px;
+  }
+  #test_image_6 {
+    width: 250px;
+    height: 350px;
+  }
+  ol {
+    background-color: beige;
+  }
+  .test_image_and_result{
+    border-radius: 5px;
+    background-color: aliceblue;
+    margin-top: 30px;
+  }
+  
